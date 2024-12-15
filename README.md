@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Seoeun Lee. I was born in South Korea but grew up in Russia, and now I'm in the UK!
+- 👋 Hi, I’m Seoeun Lee. I was born in South Korea, grew up in Russia, and now I'm in the UK!
 - 👀 I’m interested in AI and Software Engineering
 - 📫 How to reach me : 
    Email: anytimelse98@gmail.com
