@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Software Engineering
 - 📫 How to reach me : 
    Email: anytimelse98@gmail.com
-  LinkedIn: https://www.linkedin.com/in/seoeun-lee-33103234/ 
+  LinkedIn: https://www.linkedin.com/in/seoeun-lee-/
 
 <!---
 sl980013/sl980013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
